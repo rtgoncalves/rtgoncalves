@@ -1,9 +1,9 @@
 # Rodrigo Gonçalves
 
-:house: Campinas, São Paulo - Brazil <br>
-:email: rodrigo.tripoloni@gmail.com
+Campinas, São Paulo - Brazil <br>
+rodrigo.tripoloni@gmail.com
 
-:computer: Systems Analyst at [Matera Systems](https://www.matera.com/)
+Systems Analyst at [Matera Systems](https://www.matera.com/)
 
 ## Programming Languages
 
