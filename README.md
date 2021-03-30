@@ -15,6 +15,7 @@ Cobol
 ## Databases
 
 ```
+IBM DB2
 Oracle
 MS SQL Server
 ```
@@ -31,4 +32,5 @@ Spring Batch
 Docker
 Maven
 Git
+zOS (Mainframe Operational System)
 ```
