@@ -8,8 +8,7 @@ Systems Analyst at [Matera Systems](https://www.matera.com/)
 ## Programming Languages
 
 ```
-Java
-Cobol
+Java and Cobol
 ```
 
 ## Databases
@@ -23,14 +22,17 @@ MS SQL Server
 ## Knowledge
 
 ```
-Eclipse
+Eclipse and IntelliJ IDE's
 Tomcat and Wildfly (JBoss) Application Servers
-API's Rest
+API Rest
 Spring Boot
 Spring Data
 Spring Batch
+Spring Security
+Monitoring APIs with Spring Boot Actuator
+API docs with Swagger
+OpenAPI
 Docker
 Maven
 Git
-zOS (Mainframe Operational System)
 ```
